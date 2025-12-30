@@ -5,7 +5,7 @@ This repository provides a setup for deploying the Coincidences Analyzer Agent u
 ## Prerequisites
 
 - Docker installed on your system.
-- Access to the Docker image `ghcr.io/measurement-plane/coincidences-analyzer-agent:latest`.
+- Access to the Docker image `ghcr.io/measurement-plane/coincidences-analyzer:latest`.
 - A running message broker (e.g., NATS) accessible at the specified `BROKER_URL`.
 
 ## Quick Start
