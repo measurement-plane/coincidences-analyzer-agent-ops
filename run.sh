@@ -2,7 +2,7 @@
 
 # Set environment variables
 CONTAINER_NAME="coincidences_analyzer_agent_container"
-IMAGE_NAME="ghcr.io/measurement-plane/coincidences-analyzer-agent:latest"
+IMAGE_NAME="ghcr.io/measurement-plane/coincidences-analyzer:latest"
 BROKER_URL="nats://172.17.0.1:4222"
 ENDPOINT='coincidences_analyzer'
 
