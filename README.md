@@ -17,7 +17,7 @@ cd coincidences-analyzer-agent-ops
 ```
 
 ### 2. Configure Environment Variables
-You can modify the BROKER_URL default variables directly in the `run.sh` script if needed with the address of the ActiveMQ Broker and the name of the endpoint for the agent:
+You can modify the BROKER_URL default variables directly in the `run.sh` script if needed with the address of the Broker and the name of the endpoint for the agent:
 
 ```bash
 BROKER_URL="nats://172.17.0.1:4222"
